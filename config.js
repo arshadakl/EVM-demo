@@ -29,6 +29,48 @@ const PAGES = [
     },
     beepSound: "assets/beep.mp3"
   },
+  {
+    order: 2,
+    title: "ബ്ലോക്ക് പഞ്ചായത്ത്",
+    subtitle: "തുവ്വൂർ ഡിവിഷൻ",
+    totalSlots: 8,
+    candidateSlot: 1,
+    candidate: {
+      name: "സുപ്രിയ",
+      party: "യുഡിഎഫ്",
+      iconPath: "assets/iuml.jpg",
+      posterPath: "assets/order-2.jpg"
+    },
+    beepSound: "assets/beep.mp3"
+  },
+  {
+    order: 3,
+    title: "തുവ്വൂർ പഞ്ചായത്ത്",
+    subtitle: "വാർഡ് - 17",
+    totalSlots: 8,
+    candidateSlot: 1,
+    candidate: {
+      name: "കെ.വി. സുരേഷ് ബാബു",
+      party: "യുഡിഎഫ്",
+      iconPath: "assets/udf.jpg",
+      posterPath: "assets/order-3.jpg"
+    },
+    beepSound: "assets/beep.mp3"
+  },
+  {
+    order: 4,
+    title: "തുവ്വൂർ പഞ്ചായത്ത്",
+    subtitle: "വാർഡ് - 1",
+    totalSlots: 8,
+    candidateSlot: 1,
+    candidate: {
+      name: "കെ.കെ. സുരേന്ദ്രന്‍",
+      party: "യുഡിഎഫ്",
+      iconPath: "assets/udf.jpg",
+      posterPath: "assets/order-1.webp"
+    },
+    beepSound: "assets/beep.mp3"
+  },
 ];
 
 /**
